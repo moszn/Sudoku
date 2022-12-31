@@ -1,8 +1,8 @@
-Sudoku Solver
+# snake-game
 
 This is a simple Sudoku solver implemented in Python. It uses a recursive backtracking algorithm to find a solution for a given Sudoku puzzle.
 
-Usage
+# Usage
 
 To use the solver, you can either import the solve_sudoku function into your own code or run it as a standalone script.
 
